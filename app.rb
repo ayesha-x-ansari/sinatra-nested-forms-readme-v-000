@@ -3,8 +3,8 @@ require_relative 'config/environment'
 class App < Sinatra::Base
 
   get '/' do
-    "dd"
-  #  erb :new
+    "ddddddddddd"
+  # erb :new
   end
 
   post '/student' do
